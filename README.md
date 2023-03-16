@@ -1,7 +1,7 @@
 # Simulating Gaussian Beam Transverse Electric and Magnetic Waves $$(TEM_{mn})$$
 ### Written by Benjamin E. Hogan (All code is orginal)
 
-#Simulation Animation:
+### Simulation Animation:
 
 
 https://user-images.githubusercontent.com/105524918/225519768-7bb07f26-4dba-432c-94ba-7ba7751fca55.mp4
