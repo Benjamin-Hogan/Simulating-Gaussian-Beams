@@ -18,4 +18,5 @@ https://user-images.githubusercontent.com/105524918/225519768-7bb07f26-4dba-432c
 2. Chat.openai.com. https://chat.openai.com/. 
 
 #### Post Script:
-Any mathmatical or codings errors are made by myself and will work to rectify them if any are found. If found I will rectify in a new patch. 
+This simulation was done as a challenge given to me by my optics professsor Dr. Andri Gretarsson. 
+Any mathmatical or codings errors are made by myself and will work to rectify them if any are found. If found I will rectify in a new patch.  
