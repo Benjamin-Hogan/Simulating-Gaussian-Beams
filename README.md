@@ -1,6 +1,8 @@
 # Simulating Gaussian Beam Transverse Electric and Magnetic Waves $$(TEM_{mn})$$
 ### Written by Benjamin E. Hogan (All code is orginal)
 
+#Simulation Animation:
+![Alt Text](Beam_Animation.mp4)
 
 ### Mathmatics & Physics Citations:
 1. Gretarsson, Andri M. A First Course in Laboratory Optics. Cambridge University Press, 2021. 
