@@ -2,7 +2,7 @@
 ### Written by Benjamin E. Hogan (All code is orginal)
 
 #Simulation Animation:
-![Alt Text](Beam_Animation.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JPC0WD3Zp-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Mathmatics & Physics Citations:
 1. Gretarsson, Andri M. A First Course in Laboratory Optics. Cambridge University Press, 2021. 
